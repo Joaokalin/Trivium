@@ -49,9 +49,5 @@ namespace TriviumApi.Models.Services
             return PurchaseProductHistory.Map(purchases); 
         }
 
-        public async Task Teste()
-        {
-            
-        }
     }
 }
